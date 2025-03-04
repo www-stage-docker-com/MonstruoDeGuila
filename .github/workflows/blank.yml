@@ -1,0 +1,81 @@
+Algoritmo De Adaptabilidad De Interfaz De Usuario
+# This is a basic workflow to help you get started with Actions
+
+name: CI
+
+# Controls when the workflow will run
+on:
+  # Triggers the workflow on push or pull request events but only for the "release" branch
+  push:
+    branches: [ "release" ]
+  pull_request:
+    branches: [ "release" ]
+
+  # Allows you to run this workflow manually from the Actions tab
+  workflow_dispatch:
+
+# A workflow run is made up of one or more jobs that can run sequentially or in parallel
+jobs:
+  # This workflow contains a single job called "build"
+  build:
+    # The type of runner that the job will run on
+    runs-on: ubuntu-latest
+
+    # Steps represent a sequence of tasks that will be executed as part of the job
+    steps:
+      # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
+      - uses: actions/checkout@v4
+
+      # Runs a single command using the runners shell
+      - name: Run a one-line script
+        run: echo Hello, world!
+
+      # Runs a set of commands using the runners shell
+      - name: Run a multi-line script
+        run: |
+          echo Add other actions to build,
+          echo test, and deploy your project.
+          https://github.com/www-stage-docker-com/copilot.vim.git
+Desarrollar La capacidad Objetivamente Del Proceso Empresarial en Desarrollo De los Medios Emergentes De nueva Generación Preestablecidas Por las empresas De clase Mundial reconocidas por ser pioneras
+"google/generative-ai-docs"
+Parámetros
+{
+    "modelo": "modelos/gemini-2.0-flash-thinking-exp-01-21",
+    "temperatura": 1,
+    "topK": 64,
+    "P superior": 0,95,
+    "endTokens": [],
+    "límites de token": 65536,
+    "responseMimeType": "texto/sin formato",
+    "filtros de seguridad para gatos": [
+        {
+            "categoría": "ACOSO_DE_CATEGORÍA_DE_DAÑO",
+            "umbral": "BLOQUE_BAJO_Y_ARRIBA"
+        },
+        {
+            "categoría": "DISCURSO DE ODIO EN LA CATEGORÍA DAÑINA",
+            "umbral": "BLOQUE_BAJO_Y_ARRIBA"
+        },
+        {
+            "categoría": "CATEGORÍA_DAÑO_SEXUALMENTE_EXPLICITA",
+            "umbral": "BLOQUE_BAJO_Y_ARRIBA"
+        },
+        {
+            "categoría": "CONTENIDO_PELIGROSO_DE_CATEGORÍA_DE_DAÑO",
+            "umbral": "BLOQUE_BAJO_Y_ARRIBA"
+        },
+        {
+            "categoría": "INTEGRIDAD CÍVICA DE LA CATEGORÍA DE DAÑO",
+            "umbral": "BLOQUE_BAJO_Y_ARRIBA"
+        }
+    ],
+    "enableCodeExecution": falso,
+    "enableFunctionCalling": falso,
+    "funciónDeclaraciones": [],
+    "enableAutoFunctionResponse": falso,
+    "enableSearchGrounding": falso,
+    "enableSearchAsATool": falso,
+    "enableBrowseAsATool": falso,
+    "Modalidades de respuesta": [],
+    "enableEnhancedCivicAnswers": verdadero
+}https://aistudio.google.com/app/prompts?state=%7B%22ids%22:%5B%221HGpH0cGlnXAzLTILNXcslNi3bY2n96Nu%22%5D,%22action%22:%22open%22,%22userId%22:%22105695202235611122783%22,%22resourceKeys%22:%7B%7D%7D&usp=sharing
